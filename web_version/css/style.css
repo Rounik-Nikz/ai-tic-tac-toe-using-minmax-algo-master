@@ -1,0 +1,125 @@
+/* ****************** Body, head etc ****************** */
+body {
+	margin: 0;
+	padding: 0;
+	background:url(https://cdn.discordapp.com/attachments/878709243577004115/885232949736374292/white-wallpaper-hd-16.jpg);
+}
+
+header {
+	/* background-color: #ADEFD1FF; */
+	background: rgba(0, 0, 0, 0.267);
+	color: #00203FFF;
+	text-align: center;
+	height: 85px;
+	padding-top: 5px;
+	display: block;
+	margin-top: 0px;
+	margin-bottom: 60px;
+	box-sizing: border-box;
+	position: relative;
+	width: 100%;
+}
+
+p {
+	font-size: 14pt;
+	font-weight: bold;
+	font-family: Sans;
+	text-align: center;
+	position: relative;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+a {
+	color: #3700ff;
+	text-decoration: none;
+}
+a:hover {
+	color: #3700ff;
+}
+a:visited {
+	color: #3700ff;
+}
+
+/* ****************** Table style ****************** */
+#tab-tic-tac-toe {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+	font-size: 4em;
+	font-family: Sans;
+	color: #444;
+	background: #F8F8F8;
+	width: 310px;
+	height: 300px;
+	text-align: center;
+	vertical-align: center;
+	border: 1px solid #CECECE;
+	border-radius: 5px;
+	box-shadow: 1px 1px 1px #CCC;
+}
+
+/*Column style*/
+#tab-tic-tac-toe td {
+	border-collapse:collapse;
+	border-left: 5px solid #CCC;
+	border-bottom: 5px solid #CCC;
+}
+
+#tab-tic-tac-toe td:first-child {
+	border-left: none;
+}
+
+#tab-tic-tac-toe tr:last-child td {
+	border-bottom: none;
+}
+
+/*Cells*/
+#tab-tic-tac-toe td {
+	cursor: pointer;
+	height: 95px;
+	width: 95px;
+}
+
+#tab-tic-tac-toe td:hover {
+	background: #ECECEC;
+}
+
+/* ****************** Restart Button ****************** */
+#bnt-restart {
+	display: block;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	/* background: #00AEEA; */
+	background: rgba(0, 0, 0, 0.267);
+	font-size: 1.5em;
+	/* color: #FFF; */
+	color: black;
+	border: none;
+	border-radius: 6px;
+	cursor: pointer;
+}
+
+#bnt-restart:hover {
+	background: #3700ff8a;
+}
+
+#bnt-restart:active {
+	background: #3700ff8a;
+}
+
+#bnt-restart:disabled {
+	color: rgba(255, 255, 255, 0);
+	background: rgba(255, 255, 255, 0);
+}
+
+footer
+{
+	display: block;
+	
+	background: rgba(0, 0, 0, 0.267);
+}
