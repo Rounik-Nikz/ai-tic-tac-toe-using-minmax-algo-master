@@ -1,5 +1,7 @@
-# tic-tac-toe-minimax
-An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game. </br> **Try it :** [AI Tic-tac-toe - Minimax ALGO](https://rounik-tictactoe.herokuapp.com/)
+# AI TIC TAC TOE [MINIMAX ALGORITHM]
+**Description 	:** An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game. </br>
+**Author      	:** [Rounik Mondal](https://rounik.herokuapp.com/) </br> 
+**Try it	:** [AI Tic-tac-toe - Minimax ALGO](https://rounik-tictactoe.herokuapp.com/)
 
 <p align="center">
 	<img src="algorithm_assets/minimax_img.png"></img>
@@ -173,3 +175,9 @@ In a more complex game, such as chess, it's hard to search whole game tree. Howe
 * Book: George T. Heineman; Gary Pollice; Stanley Selkow. Algorithms in a nutshell. O'Reilly, 2009.
 * Wikipédia: <https://en.wikipedia.org/wiki/Minimax>
 * Nanyang Technological University: <https://www.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe_AI.html>
+
+##License
+[MIT](https://github.com/Rounik-Nikz/ai-tic-tac-toe-using-minmax-algo-master/blob/main/LICENSE)
+
+##Copyright
+(c), Rounik Mondal All, Right Reserved
