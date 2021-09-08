@@ -180,4 +180,4 @@ In a more complex game, such as chess, it's hard to search whole game tree. Howe
 [MIT](https://github.com/Rounik-Nikz/ai-tic-tac-toe-using-minmax-algo-master/blob/main/LICENSE)
 
 ## Copyright
-(c), Rounik Mondal All, Right Reserved
+Rounik Mondal All, Right Reserved
