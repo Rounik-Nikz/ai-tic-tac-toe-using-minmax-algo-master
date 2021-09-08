@@ -176,8 +176,8 @@ In a more complex game, such as chess, it's hard to search whole game tree. Howe
 * Wikipédia: <https://en.wikipedia.org/wiki/Minimax>
 * Nanyang Technological University: <https://www.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe_AI.html>
 
-##License
+## License
 [MIT](https://github.com/Rounik-Nikz/ai-tic-tac-toe-using-minmax-algo-master/blob/main/LICENSE)
 
-##Copyright
+## Copyright
 (c), Rounik Mondal All, Right Reserved
