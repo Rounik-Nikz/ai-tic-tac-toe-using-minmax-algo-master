@@ -1,5 +1,5 @@
 # tic-tac-toe-minimax
-An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game. Try it: [AI Tic-tac-toe - Minimax ALGO](https://rounik-tictactoe.herokuapp.com/)
+An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game. </br> **Try it :** [AI Tic-tac-toe - Minimax ALGO](https://rounik-tictactoe.herokuapp.com/)
 
 <p align="center">
 	<img src="algorithm_assets/minimax_img.png"></img>
