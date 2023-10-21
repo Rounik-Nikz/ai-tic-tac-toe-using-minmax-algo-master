@@ -1,6 +1,6 @@
 # AI TIC TAC TOE [MINIMAX ALGORITHM]
 **Description 	:** An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game. </br>
-**Author      	:** [Rounik Mondal](https://rounik.herokuapp.com/) </br> 
+**Author      	:** [Rounik Mondal](https://rounik-portfolio.netlify.app/) </br> 
 **Try it	:** [AI Tic-tac-toe - Minimax ALGO](https://rounik-nikz.github.io/ai-tictactoe.github.io/)
 
 <p align="center">
